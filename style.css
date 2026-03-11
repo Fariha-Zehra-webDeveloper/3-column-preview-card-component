@@ -29,6 +29,7 @@ body{
     display: flex;
     flex-direction: row;
     border-radius: 10px;
+    overflow: hidden;
 }
 .comp1{
   background-color: var(--clr-Gold-500);
